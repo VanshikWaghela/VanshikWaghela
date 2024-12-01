@@ -2,7 +2,7 @@
 🔭 I'm currently working on Classification of Microplastics <br>🌱 I'm currently learning Deep Learning<br> <br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshikwaghela) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Vanshik Waghela) 
 
@@ -18,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VanshikWaghela&icon=8&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
