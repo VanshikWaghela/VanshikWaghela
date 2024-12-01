@@ -30,9 +30,3 @@
     ██╔══██║██║    ██║╚██╔╝██║██║     
     ██║  ██║██║    ██║ ╚═╝ ██║███████╗
     ╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚══════╝             
-
-
-![3D Neural Network](https://media.giphy.com/media/example-3d-network.gif)
-
-
-<img src="https://your-svg-animation-link.svg" alt="animated-robot" width="200">
