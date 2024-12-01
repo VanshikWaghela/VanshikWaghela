@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikwaghela&" alt="vanshikwaghela" /></p>
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
