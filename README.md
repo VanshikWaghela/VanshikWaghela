@@ -22,3 +22,5 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+![AI Model Training GIF](https://media.giphy.com/media/example-training-gif.gif)
