@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanshik Waghela</h1>
 <h3 align="center">Focussed Machine Learning Engineer who loves to create great stuff and implement different technologies.</h3>
 
-- 🔭 I’m currently working on **Classification of Microplastics**
+I enjoy building intelligent systems, experimenting with ideas, and understanding where models succeed—or fail. My work so far spans computer vision, multimodal evaluation, and AI agents. I'm now exploring how these ideas translate to robotics and embodied AI.
 
-- 🌱 I’m currently learning **Deep Learning**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vanshikwaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshikwaghela" height="30" width="40" /></a>
 <a href="https://kaggle.com/vanshik03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vanshik03" height="30" width="40" /></a>
